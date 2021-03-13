@@ -1,0 +1,33 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px;
+    display: flex;
+}
+img{
+    
+    
+    padding:0 5px 0 0;
+    border: 2px solid;
+ 
+}
+.text{
+    vertical-align: right;
+    padding:1px 1px 1px 1px ;
+ 
+}
+
+h2{
+    border: black 3px Solid;
+}
+
+.right{
+    text-align: right;
+}
+
+.capitalized{
+    text-transform: uppercase;
+}
